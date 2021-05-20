@@ -1,6 +1,14 @@
-### Hi there 👋
-- 🔭 I’m currently working on PUL application
-- 🌱 I’m currently learning at Hackbright Academy
+## Hi there :bowtie:
+:bulb:  Ex revenue professional turned software engineer<br>
+:point_right:  I’m currently working on PUL application <br>
+:book:  Current book : Cracking the coding interview<br>
+:lipstick: You can find me here: https://jeeheehan.github.io.
+
+#### Languages
+:snake: Python<br>
+:turtle: Javascript
+
+
 
 <!--
 **JeeheeHan/Jeeheehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

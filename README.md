@@ -1,6 +1,6 @@
 ## Hi there :bowtie:
-:bulb:  Ex revenue professional turned software engineer<br>
-:point_right:  I’m currently working on PUL application <br>
+:bulb:  About me: Ex revenue professional turned software engineer<br>
+:point_right: Currently working on: PUL application <br>
 :book:  Current book : Cracking the coding interview<br>
 :lipstick: You can find me here: https://jeeheehan.github.io.
 

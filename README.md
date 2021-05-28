@@ -1,6 +1,6 @@
 ## Hi there :bowtie:
 :bulb:  About me: Ex revenue professional turned software engineer<br>
-:point_right: Currently working on: PUL application <br>
+:point_right: Currently working on: Jenmu-Bob-Ross repo for HackOn 2.0! <br>
 :book:  Current book : Cracking the coding interview<br>
 :lipstick: You can find me here: https://jeeheehan.github.io.
 
